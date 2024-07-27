@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Wida Tech Technical Test Front end
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -68,3 +68,21 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+## Contributing
+
+Thank you for considering contributing to this project! To get started, please follow these guidelines:
+
+1. Fork the repository and clone it to your local machine.
+2. Create a new branch for your feature or bug fix.
+3. Make your changes and test them thoroughly.
+4. Commit your changes and push them to your forked repository.
+5. Submit a pull request with a clear description of your changes.
+
+Please ensure that your code follows the project's coding conventions and includes appropriate documentation. We appreciate your contributions!
+
+## License
+
+This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the code as you see fit.
+
+
